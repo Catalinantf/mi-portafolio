@@ -23,6 +23,13 @@
           </b-card-text>
           <template #footer>
             Para este proyeco utilicé Firebase, Vue, BootstrapVue y Vuetify.
+                            <br>
+            <button type="button" class="btn btn-outline-secondary">
+              <a
+                href="https://github.com/Catalinantf/academia-ventas"
+                >Repositorio</a
+              >
+            </button>
           </template>
         </b-card>
         <!-- card gigeo -->
@@ -44,6 +51,14 @@
           </b-card-text>
           <template #footer>
             Para este ejercicio utilicé HTML, Saas y Bootstrap
+            <br>
+                            <br>
+            <button type="button" class="btn btn-outline-secondary">
+              <a
+                href="https://github.com/Catalinantfgigeo/"
+                >Repositorio</a
+              >
+            </button>
           </template>
         </b-card>
         <!-- card Animales -->
@@ -69,6 +84,13 @@
           <template #footer>
             Para este ejercicio utilicé HTML, Bootstrap, Javascript y llamado a
             API.
+                            <br>
+            <button type="button" class="btn btn-outline-secondary">
+              <a
+                href="https://github.com/Catalinantf/animales-salvajes"
+                >Repositorio</a
+              >
+            </button>
           </template>
         </b-card>
       </b-card-group>
@@ -91,6 +113,13 @@
           </b-card-text>
           <template #footer>
             Para este ejercicio utilicé HTML, Saas llamada a API y Bootstrap.
+                            <br>
+            <button type="button" class="btn btn-outline-secondary">
+              <a
+                href="https://github.com/Catalinantf/pokeguia"
+                >Repositorio</a
+              >
+            </button>
           </template>
         </b-card>
         <!-- card viajes -->
@@ -111,6 +140,14 @@
           </b-card-text>
           <template #footer>
             Para este ejercicio utilicé HTML, CSS Y Bootstrap.
+            <br>
+                <br>
+            <button type="button" class="btn btn-outline-secondary">
+              <a
+                href="https://github.com/Catalinantf/ViajesChile/"
+                >Repositorio</a
+              >
+            </button>
           </template>
         </b-card>
         <!-- card emprendimiento -->
@@ -128,6 +165,11 @@
             <small class="muted">
               Ejercicio para Bootcamp de Front End dev in Vue.JS. Es un sitio
               web responsivo de venta de cursos.
+            </small>
+          </b-card-text>
+          <template #footer>
+            Para este ejercicio utilicé HTML, Saas animaciones en CSS y
+            Bootstrap.
               <br>
             <button type="button" class="btn btn-outline-secondary" href="https://github.com/Catalinantf/Mi-emprendimiento-web-2021">
               <a
@@ -135,11 +177,6 @@
                 >Repositorio</a
               >
             </button>
-            </small>
-          </b-card-text>
-          <template #footer>
-            Para este ejercicio utilicé HTML, Saas animaciones en CSS y
-            Bootstrap.
           </template>
         </b-card>
       </b-card-group>
@@ -149,10 +186,14 @@
 
 <script>
 // @ is an alias to /src
-// import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
   name: "Home",
   components: {},
 };
 </script>
+<style>
+a{
+  color: #332b44
+}
+</style>
