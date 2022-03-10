@@ -24,7 +24,7 @@
           <template #footer>
             Para este proyeco utilicé Firebase, Vue, BootstrapVue y Vuetify.
                             <br>
-            <button type="button" class="btn btn-outline-secondary">
+            <button type="button" class="btn btn-outline-secondary mt-2">
               <a
                 href="https://github.com/Catalinantf/academia-ventas"
                 >Repositorio</a
@@ -53,7 +53,7 @@
             Para este ejercicio utilicé HTML, Saas y Bootstrap
             <br>
                             <br>
-            <button type="button" class="btn btn-outline-secondary">
+            <button type="button" class="btn btn-outline-secondary mt-2">
               <a
                 href="https://github.com/Catalinantfgigeo/"
                 >Repositorio</a
@@ -85,7 +85,7 @@
             Para este ejercicio utilicé HTML, Bootstrap, Javascript y llamado a
             API.
                             <br>
-            <button type="button" class="btn btn-outline-secondary">
+            <button type="button" class="btn btn-outline-secondary mt-2">
               <a
                 href="https://github.com/Catalinantf/animales-salvajes"
                 >Repositorio</a
@@ -114,7 +114,7 @@
           <template #footer>
             Para este ejercicio utilicé HTML, Saas llamada a API y Bootstrap.
                             <br>
-            <button type="button" class="btn btn-outline-secondary">
+            <button type="button" class="btn btn-outline-secondary mt-2">
               <a
                 href="https://github.com/Catalinantf/pokeguia"
                 >Repositorio</a
@@ -142,7 +142,7 @@
             Para este ejercicio utilicé HTML, CSS Y Bootstrap.
             <br>
                 <br>
-            <button type="button" class="btn btn-outline-secondary">
+            <button type="button" class="btn btn-outline-secondary mt-2">
               <a
                 href="https://github.com/Catalinantf/ViajesChile/"
                 >Repositorio</a
@@ -171,7 +171,7 @@
             Para este ejercicio utilicé HTML, Saas animaciones en CSS y
             Bootstrap.
               <br>
-            <button type="button" class="btn btn-outline-secondary" href="https://github.com/Catalinantf/Mi-emprendimiento-web-2021">
+            <button type="button" class="btn btn-outline-secondary mt-2" href="https://github.com/Catalinantf/Mi-emprendimiento-web-2021">
               <a
                 href="https://github.com/Catalinantf/Mi-emprendimiento-web-2021"
                 >Repositorio</a

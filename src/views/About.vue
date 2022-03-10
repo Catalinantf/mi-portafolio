@@ -10,10 +10,10 @@
       bg-variant="transparent"
       border-variant="light"
     >
-        <b-container>
+        <b-container class="py-4" >
       <b-card-text>
         <p>
-          Mi nombre es Catalina, soy Desarrolladora Frontend en constante
+          Mi nombre es Catalina Tapia, soy Desarrolladora Frontend en constante
           aprendizaje, recién egresada de la décima generación del Bootcamp en
           Desafío Latam. Las skills que he adquirido son HTML, CSS, JavaScript,l
           framework VueJs y diseño responsivo, además ocupo la librería
