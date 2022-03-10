@@ -16,7 +16,7 @@
                 ><b-icon icon="linkedin" scale="2"></b-icon></a>
             </li>
             <li class="p-3">
-              <a href="https://drive.google.com/file/d/1nSpZ0MABMt4_laG7y9UC5xP8F0Bj0Ccg/view?usp=sharing" target="_blank"
+              <a href="https://drive.google.com/file/d/1GjbLAG7Xd_-x6CowKAlENwBcaaryEgpD/view?usp=sharing" target="_blank"
                 ><i> <strong>CV</strong> </i></a
               >
             </li>
