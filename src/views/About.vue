@@ -27,11 +27,14 @@
 
         <small>
           Puedes ver más de mi trabajo 
-          <a href="https://github.com/Catalinantf ">acá</a>
+          <a href="https://github.com/Catalinantf " target="_blank">acá</a>
           
           <br>
           Mi proyecto final de carrera 
-          <a href="https://academia-ventas.web.app/home">aquí</a>
+          <a href="https://academia-ventas.web.app/home" target="_blank">aquí</a>
+                    <br>
+          Mi CV 
+          <a href="https://drive.google.com/file/d/1GjbLAG7Xd_-x6CowKAlENwBcaaryEgpD/view?usp=sharing" target="_blank">aquí</a>
           
         </small>
       </b-card-text>
