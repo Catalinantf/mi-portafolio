@@ -45,7 +45,7 @@
             Mi CV
             <strong>
               <a
-                href="https://drive.google.com/file/d/1p9ggGkpS6NrN7EzdSxk4A16fW6bpMa_J/view?usp=sharing"
+                href="https://drive.google.com/file/d/1iHLFLoSaBnhAAD7ExkyTTpnrtMMSjjKe/view?usp=sharing"
                 target="_blank"
                 >aquí</a
               ></strong
